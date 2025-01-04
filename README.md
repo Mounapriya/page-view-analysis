@@ -32,7 +32,7 @@ The code will generate various plots and a Markdown file with insights, providin
 
 ## File Description
 
-* `time_series_analysis.py`: Main script for data cleaning, visualization, and insights generation.
+* `Pageview Analysis.py`: Main script for data cleaning, visualization, and insights generation.
 * `fcc-forumpageviews.csv`: Sample CSV file containing daily page views data (replace with your actual data file).
 * `README.md`: This file (you are reading it now).
 
